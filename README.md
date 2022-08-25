@@ -1,3 +1,8 @@
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/xBgjWE5tA7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+[![Alt text for your video](https://img.youtube.com/vi/xBgjWE5tA7Y/0.jpg)](http://www.youtube.com/watch?v=xBgjWE5tA7Y)
+
+
 <p>Всем нам известно, что раскрываемость секретного ключа в подписи ECDSA может привести к полному восстановлению Биткоин Кошелька. В наших более ранних статьях мы рассматривали <a href="https://cryptodeep.ru/lattice-attack/" target="_blank" rel="noreferrer noopener">слабости и уязвимости</a> в транзакциях блокчейна, но так же существуют короткие подписи ECDSA которые так же приводят к полному восстановлению Биткоин Кошелька.</p>
 
 
